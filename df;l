@@ -1,0 +1,30 @@
+[33mcommit 2416e1aaad6f5810986df5f5bbe08e1fd4ecdd56[m
+Merge: d4a4196 21fe4fc
+Author: dontry <mccoy018@gmail.com>
+Date:   Tue Apr 14 21:02:55 2015 +0800
+
+    second commit with login session
+
+[33mcommit d4a41964508911bc668d3d931031429a9341c0d9[m
+Author: dontry <mccoy018@gmail.com>
+Date:   Fri Apr 10 20:43:39 2015 +0800
+
+    new douban spider
+
+[33mcommit 21fe4fce0100a233f0a22ed0d819b061ac9fe4fd[m
+Author: dontry <mccoy018@foxmail.com>
+Date:   Tue Mar 17 22:23:16 2015 +0800
+
+    third commit: new features---third party libraries enhancing the crawling ability
+
+[33mcommit c247beb820f4cd876d374337f33612f8342e470c[m
+Author: dontry <mccoy018@foxmail.com>
+Date:   Sun Mar 15 23:48:27 2015 +0800
+
+    second commit
+
+[33mcommit 6d145c7764db56173b8ca287388b43f373332146[m
+Author: dontry <mccoy018@foxmail.com>
+Date:   Sun Mar 15 13:17:50 2015 +0800
+
+    first commit
