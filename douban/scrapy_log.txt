@@ -1,0 +1,5 @@
+2015-04-15 22:47:43,743 - INFO: start_requests
+2015-04-15 22:47:44,881 - INFO: preparing log in
+2015-04-15 22:47:45,082 - INFO: captcha shown
+2015-04-15 22:47:45,082 - INFO: download: http://www.douban.com/misc/captcha?id=Qkem5HDQ92NBHbCN1GRKwZmq:en&size=s
+2015-04-15 22:47:45,332 - INFO: download succeed

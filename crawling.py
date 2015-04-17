@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #encoding:UTF-8
 import urllib.request
 
@@ -17,7 +16,7 @@ full_url = url + url_values
 data1 = urllib.request.urlopen(full_url).read()
 # data1 = data.decode('UTF-8')
 print(data1)
-=======
+# =======
 #encoding:UTF-8
 import urllib.request
 
@@ -36,4 +35,4 @@ full_url = url + url_values
 data1 = urllib.request.urlopen(full_url).read()
 # data1 = data.decode('UTF-8')
 print(data1)
->>>>>>> 21fe4fce0100a233f0a22ed0d819b061ac9fe4fd
+
